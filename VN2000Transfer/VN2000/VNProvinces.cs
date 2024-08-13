@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace VN2000Transfer
 {
@@ -21,7 +19,6 @@ namespace VN2000Transfer
         }
 
         private static string[] spls = new List<string>() { "\t", " ", "," }.ToArray();
-
 
         public static List<string> Datas = new List<string>()
         {
